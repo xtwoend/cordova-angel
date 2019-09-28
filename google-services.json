@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "354423487128",
+    "firebase_url": "https://db-angel.firebaseio.com",
+    "project_id": "db-angel",
+    "storage_bucket": "db-angel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354423487128:android:7001ae721a839af635aeed",
+        "android_client_info": {
+          "package_name": "com.dbangel.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354423487128-e785p7bj9gt7q5gou5e8mhfigjkvaf2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38JmkmeLJ0AGA8Vak034kgGvPCcMY1ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354423487128-e785p7bj9gt7q5gou5e8mhfigjkvaf2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354423487128:android:f872ba0147936c10",
+        "android_client_info": {
+          "package_name": "top.sugadev.dbangel_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354423487128-e785p7bj9gt7q5gou5e8mhfigjkvaf2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38JmkmeLJ0AGA8Vak034kgGvPCcMY1ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354423487128-e785p7bj9gt7q5gou5e8mhfigjkvaf2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
